@@ -26,6 +26,7 @@
      <height>0</height>
     </size>
    </property>
+   <layout class="QVBoxLayout" name="verticalLayout"/>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -116,5 +117,6 @@
   <slot>lattice_2_text_changed()</slot>
   <slot>material_display_clicked()</slot>
   <slot>material_display_2_clicked()</slot>
+  <slot>browse_button_clicked()</slot>
  </slots>
 </ui>
